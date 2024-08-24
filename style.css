@@ -1,0 +1,272 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    width: 100%;
+    
+    overflow: hidden;
+}
+nav{
+    display: inline;
+    
+}
+.main{
+    width:100%;
+    height: 93px;
+    background-color: black;
+    display: flex;
+    padding:0px 200px;
+}
+
+#photo{
+    width: 165px;
+    height: 70px;
+    padding: 10px ;
+    
+}
+ul{
+    margin-left:300px;
+}
+li{
+    color: white;
+    float: left;
+    list-style: none;
+    padding:22px 10px ;
+    font-size: 18px;
+    margin: 15px 7px;
+}
+.get{
+    width: 150px;
+    height: 60px;
+    margin: -25px 0px;
+    border-radius:100px ;
+}
+#get1{
+    background-color:transparent;
+    color: white;
+    border: 1px solid white;
+}
+#online2{
+    background-color:red;
+    color: white;
+}
+.one{
+    width: 100%;
+    height: 480px;
+    background-color: black;
+}
+.two{
+    width: 100%;
+    height: 1800px;
+    background-color: black;
+    background-color: #181818;
+    color: white;
+}
+.one,#fisrt{
+    padding:30px 100px;
+    width: 1583px;
+    height: 533px;
+    color: white;
+    border: 1px solid white;
+
+}
+.one,.first,h2{
+    font-weight: -900;
+    font-size: 30px;
+    text-align: center;
+    display: inline-block;
+}
+.salt{
+    display: inline-block;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.one,.first,p{
+    font-size: 20px;
+    text-align: center;
+    
+}
+.container3{
+    width:1000px;
+    height: 300px;
+    margin: auto;
+}
+
+.ordernow{
+    width: 300px;
+    height: 280px;
+    display: inline-block;
+    
+}
+#ordernow1{
+
+}
+#ordernow2{
+
+}
+#ordernow3{
+
+}
+.orderbtn{
+    width:200px;
+    height: 50px;
+    border-radius: 40px;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    margin-top:40px ;
+
+}
+.twoh1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+}
+.two h2{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+    display: block;
+}
+.twop{
+    color: gray;
+}
+.container6{
+     
+    width: 1000px;
+    height: 1100px;
+    margin: auto;
+}
+.container6class{
+    background-color: ;
+    width: 490px;
+    height: 360px;
+    display: inline-block;
+    align-items: justify;
+    margin-left: 7px;
+
+}
+ .one6{
+    color:red;
+    text-align: justify;
+}
+.one61{
+    text-align: justify;
+    font-size: 15px;
+    color: gray;
+}
+.getdirection{
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+    background-color: transparent;
+
+}
+.three{
+    width: 100%;
+    height: 1600px;
+    background-color: black;
+}
+.threeh1{
+text-align: center;
+color: white;
+font-size: 50px;
+padding-top: 200px;
+}
+.threep1{
+color: white;
+font-size: 40px;
+
+}
+.pic8{
+width: 1200px;
+height: 1300px;
+margin: auto;
+}
+.img8{
+    width:380px ;
+    height: 400px;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    margin: 2px;
+}
+.expressp{
+    color: red;
+.}
+.expressbutton{
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+    background-color: transparent;
+
+}
+.location{
+    color: white;
+}
+.four4{
+    width: 100%;
+    height: 700px;
+    background-color: #181818;
+    color: white;
+}
+.four4h1{
+    font-size: 60px;
+    text-align: center;
+
+}
+.four4p1{
+    font-size: 60px;
+}
+.four4img{
+    width: 700px;
+    height: 500px;
+    display: inline-block;
+
+}
+.imgtext{
+    width:500px;
+    height: 40px;
+    display: inline-block;
+    margin-top: -1000px;
+
+    
+}
+.imgtextp{
+    color: red;
+}
+.imgtexth1{
+    
+    text-align: center;
+}
+.imgbutton{
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #28a745;
+    display: block;
+    margin: auto;
+}
+.five5{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+.five5 h1{
+    color: white;
+    text-align: center;
+}
+footer{
+height: 600px;
+width: 100%;
+background-image: url(./footer.png);
+}
